@@ -25,7 +25,7 @@ this project use full db local json, wkwk
 - Router/Internet Access
 - Temperature Sensor (DS18B20)
 
-### if you don't want to use i2c lcd, you can use this special UI website : https://github.com/Stalker-moment
+### if you don't want to use i2c lcd, you can use this special UI website : https://github.com/Stalker-moment/NatsLock_UI
 
 ## Install
 Clone this project
