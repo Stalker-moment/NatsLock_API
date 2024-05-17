@@ -1,0 +1,174 @@
+[
+  {
+    "UUID": 11173462894826090000,
+    "Name": "John Doe",
+    "Username": "johndoe",
+    "Email": "test@gmail.com",
+    "Phone": "1234567890",
+    "Rent": [
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "Time": 1710632518181,
+        "Unlock_Code": "-",
+        "Expired": 0
+      }
+    ],
+    "History": [
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "1234",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "1234",
+        "duration": "1 Hours, 30 Minutes, 0 Seconds"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "27",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "80",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2020-12-01T00:00:00.000Z",
+        "code": "82",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-12T21:26:46.683Z",
+        "code": "9233",
+        "duration": "1d 8h"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-13T06:04:17.341Z",
+        "code": "6976",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-13T06:04:17.363Z",
+        "code": "2667",
+        "duration": "28s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T22:29:44.913Z",
+        "code": "8866",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-16T22:37:59.663Z",
+        "code": "6895",
+        "duration": "20min 11s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T22:37:59.642Z",
+        "code": "5033",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:00:04.858Z",
+        "code": "98",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:07:21.560Z",
+        "code": "26",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:07:21.560Z",
+        "code": "84",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "unrent",
+        "timestamp": "2024-03-16T23:07:21.557Z",
+        "code": "7495",
+        "duration": "33min 19s"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "rent",
+        "timestamp": "2024-03-16T23:41:36.364Z",
+        "code": "3349",
+        "duration": "-"
+      },
+      {
+        "alias": "Locker_1",
+        "name": "Locker 1",
+        "uuid": "005551",
+        "action": "open",
+        "timestamp": "2024-03-16T23:41:36.387Z",
+        "code": "33",
+        "duration": "-"
+      }
+    ]
+  }
+]

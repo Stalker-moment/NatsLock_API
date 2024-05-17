@@ -1,0 +1,16 @@
+[
+  {
+    "UUID": 11173462894826090000,
+    "Name": "John Doe",
+    "Verified": false,
+    "Username": "johndoe",
+    "Password": "password",
+    "Email": "test@gmail.com",
+    "Phone": "1234567890",
+    "Picture": "https://natslock.my.id/file/profile/default.jpg",
+    "Role": "admin",
+    "Created_At": "2021-01-01T00:00:00",
+    "sessionId": "",
+    "Expired_Session": null
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "alias": "Locker_1",
+    "name": "Locker 1",
+    "uuid": "005551",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841968858,
+      "timestamp": 1715841455057,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "4h 44min",
+      "duration_String": "0month 0d 4h 44min 12s",
+      "duration_Millis": 17052048
+    }
+  },
+  {
+    "alias": "Locker_2",
+    "name": "Locker 2",
+    "uuid": "005552",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841968852,
+      "timestamp": 1715839994263,
+      "expired": null,
+      "timeLeft": "01:51",
+      "duration": "4h 43min",
+      "duration_String": "0month 0d 4h 43min 53s",
+      "duration_Millis": 17033678
+    }
+  },
+  {
+    "alias": "Locker_3",
+    "name": "Locker 3",
+    "uuid": "005553",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841972439,
+      "timestamp": 1715841635900,
+      "expired": null,
+      "timeLeft": "01:54",
+      "duration": "5h 11min",
+      "duration_String": "0month 0d 5h 11min 12s",
+      "duration_Millis": 18672400
+    }
+  },
+  {
+    "alias": "Locker_4",
+    "name": "Locker 4",
+    "uuid": "005554",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841970792,
+      "timestamp": 1715841782042,
+      "expired": null,
+      "timeLeft": "01:45",
+      "duration": "5h 13min",
+      "duration_String": "0month 0d 5h 13min 46s",
+      "duration_Millis": 18826819
+    }
+  },
+  {
+    "alias": "Locker_5",
+    "name": "Locker 5",
+    "uuid": "005555",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": true,
+    "codeOpen": 0,
+    "expiredOpen": null,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841968305,
+      "timestamp": 1715829829659,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "31min 2s",
+      "duration_String": "0month 0d 0h 31min 2s",
+      "duration_Millis": 1862461
+    }
+  },
+  {
+    "alias": "Locker_6",
+    "name": "Locker 6",
+    "uuid": "005556",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841968220,
+      "timestamp": 1715841131353,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "4h 31min",
+      "duration_String": "0month 0d 4h 31min 32s",
+      "duration_Millis": 16292194
+    }
+  },
+  {
+    "alias": "Locker_7",
+    "name": "Locker 7",
+    "uuid": "005557",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": true,
+    "codeOpen": 0,
+    "expiredOpen": 1715819162439,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715819152407,
+      "lastRequest": 1715841971217,
+      "timestamp": 1715823415864,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "33min 16s",
+      "duration_String": "0month 0d 0h 33min 16s",
+      "duration_Millis": 1996954
+    }
+  },
+  {
+    "alias": "Locker_8",
+    "name": "Locker 8",
+    "uuid": "005558",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": 1715822979511,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715822969484,
+      "lastRequest": 1715841968266,
+      "timestamp": 1715835130863,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "2h 25min",
+      "duration_String": "0month 0d 2h 25min 14s",
+      "duration_Millis": 8714527
+    }
+  },
+  {
+    "alias": "Locker_9",
+    "name": "Locker 9",
+    "uuid": "005559",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": false,
+    "codeOpen": 0,
+    "expiredOpen": null,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715819152407,
+      "lastRequest": 1715841970906,
+      "timestamp": 1715821169541,
+      "expired": null,
+      "timeLeft": "00:00",
+      "duration": "15min 27s",
+      "duration_String": "0month 0d 0h 15min 27s",
+      "duration_Millis": 927237
+    }
+  },
+  {
+    "alias": "Locker_10",
+    "name": "Locker 10",
+    "uuid": "005560",
+    "status": "Available",
+    "state": true,
+    "justOpen": false,
+    "sensOpen": true,
+    "codeOpen": 0,
+    "expiredOpen": null,
+    "NeedRestart": false,
+    "OnGoing": {
+      "User": {
+        "UUID": "",
+        "Username": "",
+        "Email": "",
+        "Phone": ""
+      },
+      "stats": false,
+      "code": "",
+      "rentTime": 1715821378517,
+      "lastRequest": 1715841967239,
+      "timestamp": 1715821438556,
+      "expired": null,
+      "timeLeft": "01:51",
+      "duration": "1min 8s",
+      "duration_String": "0month 0d 0h 1min 8s",
+      "duration_Millis": 68912
+    }
+  }
+]
